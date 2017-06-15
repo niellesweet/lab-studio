@@ -58,3 +58,43 @@ header .main-title h1{
 	font-weight: 700;
 	margin-top: 30px;
 }
+/*DISEÑO SERVICIOS*/
+.section-services{
+	min-height: 100vh;
+}
+.section-services .services-title{
+	margin-top: 100px;
+}
+.section-services .services-title h1{
+	font-size: 4rem;
+	font-weight: 700;
+}
+.section-services .services-title p{
+	font-size: 2rem;
+	font-style: italic;
+	font-family: 'Spectral', serif;
+}
+.section-services .caja-texto{
+	margin-top: 50px;
+}
+.section-services .caja-texto .icono-circular{
+	display: block;
+	height: 100px;
+	width: 100px;
+	border-radius: 50%;
+	border: none;
+	background-color: #F6C90E;
+	color: #FFF;
+	font-size: 50px;
+	text-align: center;
+	margin: 0 auto;
+	padding: 15px;
+}
+.section-services .caja-texto h2{
+	font-size: 2rem;
+	font-weight: 700;
+}
+.section-services .caja-texto p{
+	font-family: 'Spectral', serif;
+	font-size: 2rem;
+}
