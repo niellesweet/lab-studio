@@ -98,3 +98,33 @@ header .main-title h1{
 	font-family: 'Spectral', serif;
 	font-size: 2rem;
 }
+/*SECCION PORTAFOLIO*/
+.portfolio-section{
+	min-height: 100vh;
+}
+.portfolio-section .portfolio-title{
+	margin-top: 50px;
+}
+.portfolio-section .portfolio-title h1{
+	font-size: 4rem;
+	font-weight: 700;
+}
+.portfolio-section .portfolio-title p{
+	font-size: 2rem;
+	font-style: italic;
+	font-family: 'Spectral', serif;
+}
+.portfolio-section .caja-texto{
+	margin-top: 20px;
+}
+.portfolio-section .caja-texto .caja-imagen img{
+	margin: 0 auto;
+}
+.portfolio-section .caja-texto h2{
+	font-size: 2rem;
+	font-weight: 700;
+}
+.portfolio-section .caja-texto p{
+	font-family: 'Spectral', serif;
+	font-size: 2rem;
+}
